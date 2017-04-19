@@ -1,5 +1,8 @@
 {
   "addons": [
     "newrelic"
-  ]
+  ],
+  "scripts": {
+    "test": "echo 🐞"
+  }
 }
